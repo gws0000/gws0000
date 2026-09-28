@@ -1,7 +1,0 @@
-.venv
-.git
-.gitea
-tests
-__pycache__
-*.egg-info
-.env
